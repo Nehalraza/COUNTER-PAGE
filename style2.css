@@ -1,0 +1,16 @@
+.counter{
+    display: block;
+    
+    font-size: 100px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+    
+
+    
+
+}
+.countlable{
+    color: black;
+}
